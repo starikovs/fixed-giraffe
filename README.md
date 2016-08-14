@@ -1,3 +1,3 @@
 # fixed-giraffe
 
-![Demo](https://www.dropbox.com/s/0rfyuzva2i2c5me/gixedgiraffe.gif?raw=1)
+![Demo Doccou alpha](http://googledrive.com/host/0BwlMiqXtLq3DTUIwZVlWSjY1b28/fixedgiraffe.gif)
